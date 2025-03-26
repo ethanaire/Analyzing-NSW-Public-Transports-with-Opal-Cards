@@ -18,14 +18,14 @@ The datasets used in the project are data scraped from Transport NSW and Austral
 <li> Data Cleaning <br>
 <ul><li> <u> Format: </u> Rearrange the data format to be readable in the notebook environment.
 <li> <u> Data Cleaning: </u> Replace NaN values in the <i>Metro</i> column in the <i>Transport NSW</i> dataset to 0 as there is no metro service until mid-2019. </ul></br>
-<li> Technique </br>
+<li> Techniques </br>
 <ul><li> Linear Regression Model
 <li> Logistic Regression Model
 <li> K-Nearest Neighbours Algorithm
 <li> Gaussian Naive Bayes
 <li> K-Means Clustering
 <li> Multi-Layer Perception (MLP) Classifier & Neural Networks </ul><br>
-<li> Languages: Python </li>
+<li> Languages: Python </li><br>
 <li> Libraries
 <ul><li> Pandas
 <li> Numpy
